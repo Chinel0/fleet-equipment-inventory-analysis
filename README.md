@@ -44,6 +44,5 @@ Let’s Connect
 I’m a Business Informatics student focused on business intelligence and data analytics, with hands-on experience in Excel, Python, SQL, Java, RStudio, and more.
 
 LinkedIn: [(https://www.linkedin.com/in/chinelo-nweke-62883516a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-GitHub: []
 Feel free to reach out for collaboration, feedback, or discussions about BI, data analytics, and emerging tech trends.
 
